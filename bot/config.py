@@ -6,9 +6,7 @@ class config:
     SUDO_USERS = "1945481931" # Sepearted by space.
     SUPPORT_CHAT_LINK =""
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "https://www.googleapis.com/auth/drive.file"
-    G_DRIVE_CLIENT_SECRET = ""
-
+   
 
 class BotCommands:
   Download = ['download', 'dl']
